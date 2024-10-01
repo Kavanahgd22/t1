@@ -9,5 +9,8 @@ sub()
   printf("subtraction");
 }
 mul();
+{
+  printf("multiplication");
+}
 div();
 }
